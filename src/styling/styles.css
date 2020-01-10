@@ -1,0 +1,26 @@
+.input {
+    font-size:24px;
+    height: 30px;
+    width:240px;
+}
+
+.container{
+    margin-top:20px;
+    border: 1px solid #E1E1E1;
+    width: 100%;
+    float: left;
+}
+
+.sub-container{
+    float: left;
+    margin: 30px 10px;
+    text-align: left;
+}
+
+.user-avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: 10px 10px;
+}
